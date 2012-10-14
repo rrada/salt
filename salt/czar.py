@@ -10,7 +10,7 @@ from keyczar import keyczar
 from keyczar import keyinfo
 
 
-class PrivCrypter(object):
+class Priv(object):
     '''
     Generate a private crypter object
     '''
